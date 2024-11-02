@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://azuqoasa.github.io/CWs/sitemap_index.txt
+Sitemap: https://azuqoasa.github.io/KYX/sitemap_index.txt
+Sitemap: https://azuqoasa.github.io/Tvk/sitemap_index.txt
+Sitemap: https://azuqoasa.github.io/xPA/sitemap_index.txt
